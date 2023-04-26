@@ -15,7 +15,7 @@ h1 {
 }
 
 .input {
-  border: 1px solid #333;
+  border: 1px solid rgb(131, 119, 98);
   border-radius: 0.3em;
   padding: 0.25rem;
   width: 7rem;
@@ -23,6 +23,9 @@ h1 {
 
 select {
   margin-left: 0.5rem;
+  border: 1px solid rgb(131, 119, 98);
+  padding: 0.15rem;
+  border-radius: 0.3em;
 }
 
 .equals {
